@@ -1,5 +1,4 @@
 # Project_Repository
-A home for files and projects
 Branch: Machine Learning -> projects from Machine Learning certificate
 
 [TODO]
